@@ -8,4 +8,4 @@ Website
 Hi Everyone,
 I am business graduate student pursuing my masters in Information System from San Diego State University. I have 4 years of work experience in Oracle Financial Services Software ltd and currently interning at Chirotouch.
 
-![Rashmi Logo](C:/Resume/Images/Rashmi_Sawant_image1.png)
+![Rashmi Logo](Rashmi_Sawant_image1.jpg)
