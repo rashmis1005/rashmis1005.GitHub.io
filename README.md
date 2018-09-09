@@ -4,7 +4,7 @@ Website
 <h2> First Name: Rashmi</h2>
 <h2> Last Name: Sawant</h2>
 
-![Rashmi Logo](Rashmi_Sawant_image1.jpg)
+![Rashmi Logo](Rashmi_Sawant_image1.jpg= 250x250)
 
 **Profile :**
 I am business graduate student pursuing my masters in Information System from San Diego State University. 
