@@ -8,4 +8,3 @@
 **Profile :**
 I am business graduate student pursuing my masters in Information System from San Diego State University. 
 
-![RAshmi_image](Rashmi_Sawant_image1.jpg)
